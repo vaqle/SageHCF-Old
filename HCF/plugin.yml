@@ -1,0 +1,6 @@
+name: "SageHCF"
+main: vale\hcf\sage\Sage
+api: 3.0.0
+version: 1.0
+author: "vale"
+description: "HCF CORE"

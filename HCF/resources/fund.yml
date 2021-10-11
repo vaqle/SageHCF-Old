@@ -1,0 +1,12 @@
+
+#The goal in which the fund ends#
+Total: 10000
+#The minimum amount a player can donate#
+MinimumDonation: 500
+#The current fund#
+Fund: 0
+globalmute: "false"
+doublevote: "true"
+deathcount: 0
+
+#Se
